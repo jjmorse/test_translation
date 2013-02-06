@@ -1,0 +1,7 @@
+{
+  topLevel : "Hello this is servers index",
+  tabs : [
+    { name : "Active", msg : "jdhjkashdkjahsd" },
+    { name : "Inactive", msg : "jdhjkashdkjahsd" }
+  ]
+}
